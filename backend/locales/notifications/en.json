@@ -1,0 +1,13 @@
+{
+  "registration": {
+    "messages": {
+      "sms": {
+        "message": ""
+      },
+      "email": {
+				"subject": "OTP for SignUp",
+				"message": "<html>Dear User, <br><br>Your OTP for registartion to Lyme is <otp>.<br><br> Thanks,<br>Team Lyme</html>"
+			}
+    }
+  }
+}
